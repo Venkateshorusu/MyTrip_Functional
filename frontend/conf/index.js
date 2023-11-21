@@ -1,4 +1,4 @@
 
-const config = { backendEndpoint: "http://172.16.109.55:8084" };
+const config = { backendEndpoint: "https://mytrip-venkatesh-1127.onrender.com/" };
 
 export default config;
